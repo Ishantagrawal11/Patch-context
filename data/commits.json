@@ -1,0 +1,702 @@
+[
+    {
+        "type": "commit",
+        "sha": "afe41126f624af30038cc8e17b2aaf60ebd4b838",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-16 18:39:08+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "7f05e26d0898e8e1491df331c2dd4368f5e35054",
+        "message": "\ud83d\udd25 Remove now-obsolete scripts to generate data for FastAPI People (#16016)",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-16 18:38:36+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "efcf8a183026edb97e342ee3fb38a0a3416798ac",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-16 18:25:46+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "e735449bae685102d448d2a443a88e1d3304abbd",
+        "message": "\ud83d\udcdd Restructure FastAPI People and related pages (#16015)",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-16 18:25:14+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "866b7a3d0ce1025a3811f23aea4846d01a2b16a8",
+        "message": "\ud83d\udd16 Release version 0.139.2 (#16014)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-16 15:04:54+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "7b3effea754619f0c305af576be23a51865292a3",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-16 14:58:20+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "7fe315c21afb8a57a2b559772e0f7ced7e5d071a",
+        "message": "\ud83d\udc1b Refactor router route building to make it thread-safe, mainly relevant for tests running in parallel threads (uncommon) (#16013)",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-16 14:57:38+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "c48e67b1ce9c03fc9bd4b1ac72350e51ad5a6e8a",
+        "message": "\ud83d\udd16 Release version 0.139.1 (#16012)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-16 09:09:10+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "2acc4fbf155caf016e3bd2602c0d2ec52723e635",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-16 09:00:03+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "eb75fd078e83aed935016bcdf0705cd58bbf0d0e",
+        "message": "\ud83d\udc1b Fix frontend fallback support for doted paths like `/users/john.doe` (#16011)",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-16 08:59:23+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "9b8410bdc9fa1fd679ea7e65b926535c7045ab87",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-15 14:37:13+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "e24d44cce4092a33b64e9536e96e7608a7dcb9b8",
+        "message": "\ud83d\udcdd Fix topic repository list not being displayed and `skip_users` not being applied (#15995)",
+        "author": "Yurii Motov",
+        "date": "2026-07-15 14:36:37+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "93b78f8646dea4543cc4d938f7e29b8547749a99",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-15 08:21:27+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "b959b443577c5f2b870cdef13219b98aa32f8943",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-15 08:19:54+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "20d332cb2e33ed5e6a406cffafa79f537852a307",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-15 08:15:28+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "061eb10016f5cd680a7796ba0320100ddce00710",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-15 08:14:40+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "8f93206768d362c75ba38e7c66a3e104df56222e",
+        "message": "\ud83c\udf10 Update translations for tr (update-outdated) (#16005)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-15 08:14:11+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "5ca69d462685929d2c418a0a393d9c13d3d24504",
+        "message": "\ud83c\udf10 Update translations for zh-hant (update-outdated) (#15996)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-15 08:13:02+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "38c668601586dbdf38a6d8c4200c6ab6ab745e1b",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-15 08:12:46+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "1bea40556e933861fe5b66e91b04a84c766d6af6",
+        "message": "\ud83c\udf10 Update translations for fr (update-outdated) (#16006)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-15 08:12:13+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "3330e247ce1984f2e9bedeb20c6dbdedf3662cfa",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-15 08:11:45+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "569630f6463ff03bd711ad8dd07af6f074410124",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-15 08:11:16+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "362c6f1d3f11b1426cf18315568947e9e64894f3",
+        "message": "\ud83c\udf10 Update translations for de (update-outdated) (#15999)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-15 08:11:05+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "10f30b844b370aa56974c59ec8bb13439de75b96",
+        "message": "\ud83c\udf10 Update translations for ko (update-outdated) (#16004)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-15 08:10:56+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "4cb38a48098f0bce73cd6c7242cb6a4f81a5b4c2",
+        "message": "\ud83c\udf10 Update translations for zh (update-outdated) (#16001)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-15 08:10:45+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "745d3d222f52ea61c4e9d1cc19c7196992594085",
+        "message": "\ud83c\udf10 Update translations for uk (update-outdated) (#16003)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-15 08:10:36+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "8458d35c96647a92801b9a243f3bd42a24fc7350",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-15 08:10:29+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "75bdc46293f35d8ca806e4690d6e294d9444492b",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-15 08:10:14+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "c29b4a17afe51299200fad8e5bc9f5c8822efe4d",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-15 08:10:06+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "3a8ab1f76bc6af6d84101cf21d8180c20f3e6538",
+        "message": "\ud83c\udf10 Update translations for ja (update-outdated) (#15998)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-15 08:09:44+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "b10d3dac4ce2e17ecd04f65fd92b050ce33ca899",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-15 08:09:35+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "1d02512ce3c5d2ab0cb59ccda44725e7fc3076c7",
+        "message": "\ud83c\udf10 Update translations for pt (update-outdated) (#16000)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-15 08:09:33+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "24a957b5b01a25718b477897976bff7f032606f3",
+        "message": "\ud83c\udf10 Update translations for es (update-outdated) (#15997)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-15 08:09:15+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "2ebfb7a7bc68b5346502676e7a234cd78cf01c26",
+        "message": "\ud83c\udf10 Update translations for ru (update-outdated) (#16002)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-15 08:08:55+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "027f27220c3ba66be6c42c95a227389b19383645",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-14 15:40:57+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "37ccca3e95e287822602e275e92301399ba8917b",
+        "message": "\ud83c\udf10 Update translations for hi (add-missing) (#15990)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-14 15:40:20+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "64fc8a4521d924e15cfecf6bf37d775ce688267a",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-14 12:18:15+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "e5d61c34a35f65676115ceec75acb26e1502f2c3",
+        "message": "\ud83c\udf10 Update translations for hi (add-missing) (#15925)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>\nCo-authored-by: Yurii Motov <yurii.motov.monte@gmail.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-14 12:17:35+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "b1346bb142c8154950953255eea535e5a83d62eb",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-13 11:02:55+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "9405816f15ffa5e6c3558444a14791f3b62e0c99",
+        "message": "\u2b06 Bump the python-packages group across 1 directory with 6 updates (#15981)\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+        "author": "dependabot[bot]",
+        "date": "2026-07-13 11:02:21+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "fd4c4cfc3e8d3ffc207ff9f510a27b459e79fa0f",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-13 10:27:10+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "87bbab1b739e7f7018bb826bc929af5c0e8e5d40",
+        "message": "\u2b06 Bump typing-extensions from 4.15.0 to 4.16.0 (#15982)\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+        "author": "dependabot[bot]",
+        "date": "2026-07-13 10:26:39+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "b335c906e1495c1b35100823b8b33639879d15f2",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-13 10:16:09+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "2b0b417c0cc38e3197d1c8eab90d512c6d905e25",
+        "message": "\u2b06 Bump the github-actions group across 1 directory with 4 updates (#15983)\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+        "author": "dependabot[bot]",
+        "date": "2026-07-13 10:15:37+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "c9d88e33d8aecb96a4898a8f82d154ea1d40e318",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-13 09:54:21+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "ef3f1ac9c1483666fb70ced80b089f08f7c8d5bf",
+        "message": "\u2b06 Bump pre-commit hooks (#15985)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-13 09:53:48+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "cf93cc6258babf28a5c4b7a269517903b30ef609",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-13 09:04:02+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "b75bd318f30e57a93727b17b4ef246fc2af61863",
+        "message": "\ud83d\udc77 Use `FASTAPI_LATEST_CHANGES` token in `bump-pre-commit-hooks` workflow (#15984)",
+        "author": "Yurii Motov",
+        "date": "2026-07-13 09:03:30+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "c87047938912ce46ac1855d45638333397c81714",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-13 08:09:09+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "8bd152772e7f0aa50b88006ec574cf23f92ba571",
+        "message": "\ud83d\udc77 Add GH workflow to bump pre-commit hook versions (#15873)",
+        "author": "Yurii Motov",
+        "date": "2026-07-13 08:08:13+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "424f6b3c9ac8df1e35ed421bfeb4ef147cfecdeb",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-13 08:03:27+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "59e4a1c8a84dc6a19fdf054f74317504b68d7bc0",
+        "message": "\ud83d\udd27 Set Dependabot schedule interval to \"monthly\" (#15874)",
+        "author": "Yurii Motov",
+        "date": "2026-07-13 08:02:51+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "7cb06f360dd44efac059848df1a9beee7643b018",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-07 19:03:19+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "1e60e3299246c6b1515ab9ef1b1c5de11bf4454b",
+        "message": "\u2b06 Bump CodSpeedHQ/action from 4.17.6 to 4.18.1 in the github-actions group (#15950)\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+        "author": "dependabot[bot]",
+        "date": "2026-07-07 19:02:48+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "fb53e1df99d05689d2c519bd30ae50442c3240cb",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-07 19:01:05+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "74963395fc32638a2b698d9fc0b2a46961556b1b",
+        "message": "\u2b06 Bump the python-packages group with 8 updates (#15952)\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+        "author": "dependabot[bot]",
+        "date": "2026-07-07 19:00:31+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "3f3354a94d7c8b496258d7b762070e46704e01c1",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-06 22:41:52+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "4cafad584d5eb4cff0ace66f25b6b9a461d6fa6f",
+        "message": "\ud83d\udd27 Update sponsors: add TutorCruncher (#15947)",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-06 22:41:18+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "dd17e4f723a23854cfe4b9b6258e31efd86ea523",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-04 20:24:30+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "787e11b4266581c7623afa1bd950aecfe64e8eea",
+        "message": "\ud83d\udc77 Fix notify translations checkout target (#15933)",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-04 20:23:59+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "68c02766d4a537890a892d42c94fc4c4c4d16906",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-04 20:04:00+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "f500ef131e0c00bd42b26706ce75ece89eb39081",
+        "message": "\ud83d\udc77 Fix latest-changes checkout target (#15932)",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-04 20:03:22+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "fdfd5091f149bd9c7281c2bcc4bb867bdaa1269c",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-04 13:15:08+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "28c6fa1132b62489aef98234a09a8a663495d67b",
+        "message": "\ud83d\udd27 Update sponsors: remove RapidProxy (#15929)",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-04 13:14:37+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "0475b62ff7dff909db08dc9bba96607ec08e2b5d",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-03 19:10:54+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "9c913b7bf748db2f1b2ed7a02c45264abc208698",
+        "message": "\u2b06\ufe0f Update issue-manager to 0.8.1 (#15928)",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-03 19:08:33+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "f9816e4aa3e4e6ae55abd3fe4a190a6fa9da2c43",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-03 14:43:06+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "a52b4b9283ef42704ce1392f9ef2819205400855",
+        "message": "\u2b06\ufe0f Update latest-changes to 0.6.1 (#15926)",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-03 14:41:40+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "33299e22d178aa6f731140f67f8dbf5dd07cfa25",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-03 13:42:01+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "72726acc6b16d419c02db9da5859b5b0f859fb6f",
+        "message": "\ud83c\udf10 Update translations for hi (add-missing) (#15797)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>\nCo-authored-by: Yurii Motov <yurii.motov.monte@gmail.com>\nCo-authored-by: Yurii Motov <109919500+YuriiMotov@users.noreply.github.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-03 13:41:36+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "d27fe5cf15106a93687951479272999d4d84ecce",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-03 13:39:15+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "91df2c20bc83ba67aaf71cf461acd36c314ba326",
+        "message": "\ud83c\udf10 Update `llm-prompt.md` for Hindi (#15810)",
+        "author": "Yurii Motov",
+        "date": "2026-07-03 13:38:49+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "ae59432d3ba389ba6e83101ffc6b2c5b10b43421",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-03 12:39:09+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "b0708dcbb99ee0b63521b84c8cdc843055095124",
+        "message": "\ud83c\udf10 Fix language-specific translation prompt for Russian language (#15924)",
+        "author": "Yurii Motov",
+        "date": "2026-07-03 12:38:40+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "cecd96d9c6c318e0df1c40cedbc2e953381ddfd3",
+        "message": "\ud83d\udd16 Release version 0.139.0 (#15910)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-01 16:24:47+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "aea660936b55fdbd84270d24f892839388922dd6",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-01 16:13:00+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "319be508ce7db9ee5f52c3b9baa68c6cc1037c10",
+        "message": "\u2728 Support dependencies in `app.frontend()`, e.g. for automatic cookie authentication for the frontend (#15908)",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-01 16:12:33+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "66a90f6ee9c0cf58ec61b14f8925344d6f16eae5",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-01 15:54:16+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "d30a3ebfc7d7fd7851ba4243677266c53cb9f154",
+        "message": "\ud83d\udc65 Update FastAPI People - Experts (#15909)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-01 15:53:31+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "122f1b58f4e0fabfefef3710a8c8247bb2bd820b",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-01 14:23:45+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "fd6ece32eeb27c9ce164bd9170f9d8e1db1dacff",
+        "message": "\ud83d\udc65 Update FastAPI GitHub topic repositories (#15906)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-01 14:23:18+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "ec2a6adaf14c440bdcd0fd3f4ca203daa8c3ba6a",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-01 14:07:01+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "9d7d7febd3a66844f948254c1ba4745b6cc16f40",
+        "message": "\ud83c\udf10 Update translations for fr (update-outdated) (#15897)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>\nCo-authored-by: Yurii Motov <yurii.motov.monte@gmail.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-01 14:06:27+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "8dc852df4713efa998d126c5194302e9f06e7675",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-01 13:59:58+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "704927a066baaf3d680446bdee700b9b8e16c13e",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-01 13:59:57+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "c80355b65eda4e636aff4463d159c1bdc2029982",
+        "message": "\ud83c\udf10 Update translations for zh-hant (update-outdated) (#15896)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>\nCo-authored-by: Yurii Motov <yurii.motov.monte@gmail.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-01 13:59:24+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "28c93900e71f69ac536ebdd317c476003750a8de",
+        "message": "\ud83c\udf10 Update translations for ja (update-outdated) (#15895)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>\nCo-authored-by: Yurii Motov <yurii.motov.monte@gmail.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-01 13:59:00+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "a49e35172dcfc064f8b3a6e0758442da774a977d",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-01 13:58:04+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "512a3e7825dc7f9c4e08c350851d06ab005b18cc",
+        "message": "\ud83c\udf10 Update translations for de (update-outdated) (#15899)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>\nCo-authored-by: Yurii Motov <yurii.motov.monte@gmail.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-01 13:57:35+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "e23813a9b537672a882b589290ca128c0a55c95d",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-01 13:50:58+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "c2cdfcbcdd0394c8b4dcf3bd30fca535091e5524",
+        "message": "\ud83c\udf10 Update translations for es (update-outdated) (#15892)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>\nCo-authored-by: Yurii Motov <yurii.motov.monte@gmail.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-01 13:50:11+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "60237faadb926f616b2b8947e1f793779844d22a",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-01 13:47:39+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "e7324a77db4a9f4d38e4673850ed10ab1de0cb96",
+        "message": "\ud83c\udf10 Update translations for tr (update-outdated) (#15891)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>\nCo-authored-by: Yurii Motov <yurii.motov.monte@gmail.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-01 13:46:01+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "50ab217bc6f2fc2d2ecd05af8329591c55e9d5fe",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-01 13:45:51+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "48dd913e5648cda943bc28cccfbbc4c93f2a5859",
+        "message": "\ud83c\udf10 Update translations for pt (update-outdated) (#15893)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>\nCo-authored-by: Yurii Motov <yurii.motov.monte@gmail.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-01 13:45:25+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "59d335d200a9d39256b521038f7ae58535eb75b0",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-01 13:36:20+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "6119d875861a1ff1d4f4352fe6c87c42a8d820dc",
+        "message": "\ud83c\udf10 Update translations for zh (update-outdated) (#15898)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>\nCo-authored-by: Yurii Motov <yurii.motov.monte@gmail.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-01 13:35:53+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "2b5cf661cab461072b910f26bdc8d2e6512abe13",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-01 13:27:56+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "509ac59f5c8cd0914968beb64178c764e1a11e2f",
+        "message": "\ud83c\udf10 Update translations for uk (update-outdated) (#15900)\n\nCo-authored-by: github-actions[bot] <github-actions[bot]@users.noreply.github.com>\nCo-authored-by: Yurii Motov <yurii.motov.monte@gmail.com>",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "date": "2026-07-01 13:27:26+00:00"
+    },
+    {
+        "type": "commit",
+        "sha": "ffcbd457ea065a17645a2a56c3fee588cbaca5a6",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "author": "github-actions[bot]",
+        "date": "2026-07-01 13:16:54+00:00"
+    }
+]
