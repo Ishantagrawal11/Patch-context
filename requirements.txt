@@ -7,3 +7,5 @@ sentence-transformers
 python-dotenv
 pypdf
 gitpython
+torch
+torchvision
