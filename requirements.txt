@@ -1,0 +1,12 @@
+PyGithub
+streamlit
+langchain
+langchain-community
+langchain-ollama
+faiss-cpu
+sentence-transformers
+python-dotenv
+pypdf
+gitpython
+torch
+torchvision
